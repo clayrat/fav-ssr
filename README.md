@@ -23,7 +23,7 @@ Follow the instructions on https://github.com/coq-community/templates to regener
 
 
 
-A port of the book https://functional-algorithms-verified.org/ to Coq/SSReflect.
+A port of the book https://fdsa-book.net/ to Coq/SSReflect.
 
 The book was previously called "Functional Algorithms Verified", hence the FAV acronym.
 
