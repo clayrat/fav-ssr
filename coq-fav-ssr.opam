@@ -12,7 +12,7 @@ license: "MIT"
 
 synopsis: "A port of the Functional Data Structures and Algorithms book to Coq/SSReflect"
 description: """
-A port of the book https://functional-algorithms-verified.org/ to Coq/SSReflect.
+A port of the book https://fdsa-book.net/ to Coq/SSReflect.
 
 The book was previously called "Functional Algorithms Verified", hence the FAV acronym."""
 
